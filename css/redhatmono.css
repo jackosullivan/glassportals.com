@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'RedHatMonoLight';
+    font-style: normal;
+    src: url(../fonts/RedHatMono/RedHatMono-Light.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMonoLight';
+    font-style: italic;
+    src: url(../fonts/RedHatMono/RedHatMono-LightItalic.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMono';
+    font-style: normal;
+    src: url(../fonts/RedHatMono/RedHatMono-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMono';
+    font-style: italic;
+    src: url(../fonts/RedHatMono/RedHatMono-Italic.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMonoMedium';
+    font-style: normal;
+    src: url(../fonts/RedHatMono/RedHatMono-Medium.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMonoMedium';
+    font-style: italic;
+    src: url(../fonts/RedHatMono/RedHatMono-MediumItalic.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMonoBold';
+    font-style: normal;
+    src: url(../fonts/RedHatMono/RedHatMono-Bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'RedHatMonoBold';
+    font-style: italic;
+    src: url(../fonts/RedHatMono/RedHatMono-BoldItalic.woff2) format('woff2');
+}
