@@ -1,40 +1,40 @@
 @font-face {
     font-family: 'RedHatTextLight';
     font-style: normal;
-    src: url(../fonts/RedHatText/RedHatText-Light.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-Light.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatTextLight';
     font-style: italic;
-    src: url(../fonts/RedHatText/RedHatText-LightItalic.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-LightItalic.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatText';
     font-style: normal;
-    src: url(../fonts/RedHatText/RedHatText-Regular.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-Regular.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatText';
     font-style: italic;
-    src: url(../fonts/RedHatText/RedHatText-Italic.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-Italic.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatTextMedium';
     font-style: normal;
-    src: url(../fonts/RedHatText/RedHatText-Medium.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-Medium.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatTextMedium';
     font-style: italic;
-    src: url(../fonts/RedHatText/RedHatText-MediumItalic.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-MediumItalic.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatTextBold';
     font-style: normal;
-    src: url(../fonts/RedHatText/RedHatText-Bold.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-Bold.woff2) format('woff2');
 }
 @font-face {
     font-family: 'RedHatText';
     font-style: italic;
-    src: url(../fonts/RedHatText/RedHatText-BoldItalic.woff2) format('woff2');
+    src: url(https://glassportals.com/fonts/RedHatText/RedHatText-BoldItalic.woff2) format('woff2');
 }
